@@ -1,0 +1,20 @@
+*{
+	margin: auto;
+	padding: auto;
+	font-family: serif;
+}
+.Happy{
+	background-image: url(pasteries.jpg);
+	background-position: center;
+	background-size: contain;
+}
+.Happy{
+	width: 50%;
+	height: 40vh;
+	image: url(owner.jpg);
+	image-position: center;
+	image-size: auto;
+}
+.content{
+	: 
+}

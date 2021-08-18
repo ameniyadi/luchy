@@ -1,0 +1,19 @@
+*{
+	margin: auto;
+	padding: auto;
+	font-family: serif;
+}
+.Happy{
+	width: 100%;
+	height: 400%;
+	background-position: center;
+	background-size: contain;
+}
+.haps ul li{
+	list-style: none;
+	margin: 250px 30px;
+	position: relative;
+	width: 20%;
+	height: 20vh;
+	border-image: url(ice cream.jpg),url(small chops.jpg),url(birthdays.jpg)
+}
